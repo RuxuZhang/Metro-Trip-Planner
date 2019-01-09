@@ -1,7 +1,9 @@
 # CSE6010
 
 Author          : Ruxu Zhang, Yingqiao Zheng
+
 Created         : November 11, 2018
+
 Last Modified   : December 4, 2018
 
 Affiliation          : Georgia Institute of Technology
@@ -11,6 +13,7 @@ Description
 -------------
 
 This program includes two parts:
+
 	Part 1: management.c
 	Part 2: other files
 
