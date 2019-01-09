@@ -1,4 +1,4 @@
-# CSE6010
+# Metro Trip Planner
 
 Author          : Ruxu Zhang, Yingqiao Zheng
 
