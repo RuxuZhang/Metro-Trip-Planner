@@ -1,0 +1,121 @@
+6 104
+1 14
+Tiyuxilu 0 1 3 
+Yangji 2 1 5 
+Dongshankou 4 0 
+Lieshilingyuan 6 0 
+Nongjiangsuo 8 0 
+Gongyuanqian 10 1 2 
+Ximenkou 12 0 
+Chenjiaci 14 0 
+Changshoulu 16 0 
+Huangsha 18 0 
+Fangcun 20 0 
+Huadigang 22 0 
+Kengkou 24 0 
+Xilang 26 0 
+2 24
+Jiahewanggang 0 1 3 
+Huangbian 2 0 
+Jiangxia 4 0 
+Xiaogang 6 0 
+Baiyunguangchang 8 0 
+Baiyungongyuan 10 0 
+Feixianggongyuan 12 0 
+Sanyuanli 15 0 
+Guangzhouhuochezhan 16 1 5 
+Yuexiugongyuan 18 0 
+Jiniantang 20 0 
+Gongyuanqian 22 1 1 
+Haizhuguangchang 25 0 
+Shiergong 27 0 
+Jiangnanxi 29 0 
+Changgang 31 1 8 
+Jiangtai 33 0 
+Dongxiaonan 35 0 
+Nanzhou 37 0 
+Luoxi 39 0 
+Nanpu 41 0 
+Huijiang 44 0 
+Shibi 47 0 
+Guangzhounanzhan 48 0 
+3 23
+Jichangnan 0 0 
+Renhe 5 0 
+Longgui 8 0 
+Jiahewanggang 13 1 2 
+Baiyundadaobei 16 0 
+Yongtai 19 0 
+Tonghe 22 0 
+Jingxinanfangyiyuan 24 0 
+Meihuayuan 26 0 
+Yantang 28 0 
+Guangzhoudongzhan 30 0 
+Linhexi 31 0 
+Tiyuxilu 33 1 1 
+Zhujiangxincheng 35 1 5 
+Chigangta 37 0 
+Kecun 39 1 8 
+Datang 41 0 
+Lijiao 44 0 
+Xiajiao 46 0 
+Dashi 48 0 
+Hanxichanglong 51 0 
+Shiqiao 56 0 
+Panyuguangchang 58 0 
+4 16
+Huangcun 0 0 
+Chebei 2 0 
+Chebeinan 5 1 5 
+Wanshengwei 7 1 8 
+Guanzhou 10 0 
+Daxuechengnan 12 0 
+Daxuechengbei 16 0 
+Xinzao 18 0 
+Shiji 27 0 
+Haipang 30 0 
+Diyong 32 0 
+Dongyong 34 0 
+Huanggeqichezhan 40 0 
+Guangge 43 0 
+Jiaomen 46 0 
+Jinzhou 48 0 
+5 24
+Jiaokou 0 0 
+Danwei 2 0 
+Zhongshanba 4 0 
+Xichang 6 0 
+Xicun 8 0 
+Guangzhouhuochezhan 11 1 2 
+Xiaobei 14 0 
+Taojin 16 0 
+Ouzhuang 18 0 
+Dongwuyuan 20 0 
+Yangji 22 1 1 
+Wuyangcun 24 0 
+Zhujiangxincheng 26 1 3 
+Liede 28 0 
+Tancun 30 0 
+Yuancun 32 0 
+Keyunlu 34 0 
+Chebeinan 36 1 4 
+Dongpu 39 0 
+Sanxi 41 0 
+Yuzhu 42 0 
+Dashadi 44 0 
+Dashadong 47 0 
+Wenchong 49 0 
+8 13
+Fenghuangxincun 0 0 
+Shayuan 1 0 
+Baogangdadao 3 0 
+Changgang 5 1 2 
+Xiaogang2 7 0 
+Zhoangda 9 0 
+Lujiang 11 0 
+Kecun 14 1 3 
+Chigang 16 0 
+Modiesha 18 0 
+Xingangdong 20 0 
+Pazhou 22 0 
+Wanshengwei 23 1 4 
